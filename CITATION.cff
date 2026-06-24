@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Progressive Reasoning Fine-Tuning for the NVIDIA Nemotron Model Reasoning Challenge"
+type: software
+authors:
+  - family-names: "Yang"
+version: 1.0.0
+date-released: 2026-06-24
+license: MIT
+abstract: >-
+  Kaggle-oriented LoRA continued training, official-like local validation,
+  and task-level error analysis for the NVIDIA Nemotron Model Reasoning Challenge.
+keywords:
+  - Nemotron
+  - LoRA
+  - supervised fine-tuning
+  - mathematical reasoning
+  - Kaggle

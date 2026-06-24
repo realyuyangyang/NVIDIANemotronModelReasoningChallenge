@@ -1,0 +1,9 @@
+# Lightweight repository and notebook-analysis dependencies.
+# GPU training/inference dependencies are installed inside the Kaggle notebooks.
+nbformat>=5.10,<6
+matplotlib>=3.8,<4
+numpy>=1.26,<3
+pandas>=2.2,<3
+tqdm>=4.66,<5
+kagglehub>=0.3,<1
+ipython>=8,<10

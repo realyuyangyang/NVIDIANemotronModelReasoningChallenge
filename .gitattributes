@@ -1,0 +1,4 @@
+*.ipynb linguist-language=Python
+*.png binary
+*.zip binary
+*.safetensors binary

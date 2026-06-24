@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle/model artifacts
+adapter_config.json
+adapter_model.safetensors
+adapter_model.bin
+submission.zip
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# Generated validation outputs
+analysis_outputs/
+figures/
+plot_tables/
+debug_predictions.csv
+debug_predictions.jsonl
+test.csv
+submission.csv
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
